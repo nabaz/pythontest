@@ -1,0 +1,6 @@
+('Yasoob', 'Yellow'),
+('Ali', 'Blue'),
+('Arham', 'Green'),
+('Ali', 'Black'),
+('Yasoob', 'Red'),
+('Ahmed', 'Silver'),

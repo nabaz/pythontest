@@ -5,6 +5,3 @@ def anagram_s1(s1, s2):
     while pos1 < len(s1) and not still_ok:
         pos2 = 2
         still_ok = False
-
-
-print anagram_s1('level', 'level')

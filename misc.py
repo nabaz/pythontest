@@ -34,7 +34,3 @@ class Deque:
                 still_ok = False
 
         return still_ok
-
-def int_to_word(a_list):
-    my_base = 3
-    my_string = ""
